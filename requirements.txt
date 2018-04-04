@@ -1,4 +1,3 @@
 pip
-discord
 youtube_dl
 imgurpython
